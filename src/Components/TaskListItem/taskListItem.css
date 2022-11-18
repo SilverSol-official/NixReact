@@ -1,0 +1,50 @@
+.Acordion{
+    width:60%;
+    margin-left: 0px;
+}
+
+
+.btn{
+    width: 80px;
+    height:80px;
+    margin-top: 10px;
+    background-color: white;
+    border:0px;
+}
+
+.btn-edit{
+    color:rgb(233, 233, 76);
+}
+
+.btn-process{
+    color:darkgray;
+}
+.inProgress{
+    color:green;
+}
+.checked {
+    color: green;
+}
+
+.checkbox{
+    width:90px;
+}
+
+.Acordion , .form , .btn{
+    display: inline-block;
+}
+
+.containerI{
+    width:50%;
+    justify-content:center;
+    margin:auto;
+    
+}
+
+.flex{
+    display: flex;
+}
+
+.hide{
+    display:none;
+}

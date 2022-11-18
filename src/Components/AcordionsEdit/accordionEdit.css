@@ -1,0 +1,61 @@
+p{
+    font-size: x-large;
+    font-family: 'Courier New', Courier, monospace;
+}
+h3{
+    font-size: x-large;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.penIcon{
+    color: #e5e51c;
+}
+.penLabel{
+    width:80px;
+    height:100px;
+
+}
+
+.editAccordion{
+    padding: 8px 16px 16px;
+    z-index: 2;
+    position: absolute;
+    background: rgb(63, 63, 240);
+    color:white;
+    width:300px;
+    margin-left: 150px;
+    margin-top: -100px;
+}
+
+
+.w-100e{
+    width:100%;
+}
+
+.inputHoldere{
+    width:150px;
+    height:15px;
+    border-radius:10px;
+    padding:10px;
+    font-size: smaller;
+    margin:10px 20px;
+    border:2px solid rgb(63, 63, 240) ;
+
+}
+.containere{
+    width:120px;
+    display: flex;
+    justify-content:center;
+    margin:auto;
+}
+
+.btn-createe{
+    background-color: rgb(63, 63, 240);
+    border-radius: 10px;
+    margin-left:57px;
+    margin-right: 57px;
+    width:100px;
+    height:30px;
+    margin-top: 20px;
+    color:white;
+}

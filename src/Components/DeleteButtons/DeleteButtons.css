@@ -1,0 +1,16 @@
+.deleteContainer{
+    display: flex;
+    justify-content:center;
+    margin:auto;
+    width:40%;
+}
+.deleteButtons{
+    width:15%;
+    height:50px;
+    margin:20px;
+    background-color: rgb(239, 40, 40);
+    color:white;
+    border-radius: 10px;
+    font-size: large;
+    border:none;
+}   

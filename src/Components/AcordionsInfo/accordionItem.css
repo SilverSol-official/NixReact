@@ -1,0 +1,13 @@
+p{
+    font-size: x-large;
+    font-family: 'Courier New', Courier, monospace;
+}
+h3{
+    font-size: x-large;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.accordion-edit{
+    width:80px;
+    height:100px;
+}
